@@ -1,6 +1,7 @@
 asdf
 ghjk
 qwerty
+<<<<<<< HEAD
 usage: git [--version] [--help] [-C <path>] [-c name=value]
            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
            [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
@@ -88,3 +89,5 @@ to read about a specific subcommand or concept.
 asdfert
 fbskvbk
 hjsvbdksd
+=======
+>>>>>>> 65a1e5b... cherry file
